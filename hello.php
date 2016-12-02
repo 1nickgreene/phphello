@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello Again NOW</p>'; ?> 
- <?php echo "<font color='red'>Royal !!!</font>"; ?>
+ <?php echo '<p>Hello Again</p>'; ?> 
+ <?php echo "<font color='red'>Nick and Chuck</font>"; ?>
  </body>
 </html>
