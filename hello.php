@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>RONIN HEALTHCARE</p>'; ?> 
- <?php echo "<font color='red'>Nick and Chuck</font>"; ?>
+ <?php echo "<font color='red'>Nick</font>"; ?>
  </body>
 </html>
